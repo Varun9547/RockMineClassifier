@@ -14,22 +14,6 @@ The model is trained on a small dataset containing sonar signal readings. The da
 - **Features**: Sonar signal intensity values.
 - **Labels**: `Rock` or `Mine`.
 
-## Installation
-To set up and run the project, follow these steps:
-
-1. **Clone the Repository:**
-   ```bash
-   git clone https://github.com/yourusername/RockMinePredictor.git
-   cd RockMinePredictor
-   ```
-2. **Install Dependencies:**
-   ```bash
-   pip install -r requirements.txt
-   ```
-3. **Run the Model:**
-   ```bash
-   python main.py
-   ```
 
 ## Usage
 - Load and preprocess the dataset.
@@ -52,9 +36,4 @@ To set up and run the project, follow these steps:
 - Implement data normalization for improved model performance.
 - Expand the dataset for more reliable predictions.
 
-## License
-This project is open-source and available under the **MIT License**.
-
-## Contact
-For any queries, feel free to reach out to **[Your Name]** at **your.email@example.com**.
 
