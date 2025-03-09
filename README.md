@@ -23,7 +23,7 @@ The model is trained on a small dataset containing sonar signal readings. The da
 
 ## Model Details
 - **Algorithm:** (e.g., Logistic Regression, Decision Tree, or KNN)
-- **Training Data Split:** 70% Training, 30% Testing
+- **Training Data Split:** 90% Training, 10% Testing
 - **Performance Metrics:** Accuracy
 
 ## Limitations
